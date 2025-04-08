@@ -1,0 +1,253 @@
+## Tema 1: Fundamentos Éticos
+
+### Tópicos Combinados: A ética e a moral (empresarial); Ética e moral no contexto empresarial; A importância da ética na tomada de decisões.
+
+**1. Explicar Conceitos:**
+
+* **Ética e Moral:** Conforme detalhado anteriormente, a **Ética** refere-se ao estudo dos princípios e valores que guiam a conduta (o "pensar" sobre o certo/errado), enquanto a **Moral** se refere aos costumes e normas praticados por um grupo ou indivíduo (o "agir" ou "sentir" o certo/errado).
+* **No Contexto Empresarial:** A **Ética Empresarial** estabelece os padrões de conduta esperados nas atividades de negócios, baseados em princípios de justiça, honestidade, respeito, etc. A **Moral** dos indivíduos na empresa (gestores, funcionários) influencia a interpretação e aplicação desses padrões éticos.
+* **Importância na Tomada de Decisões:** A ética é crucial nas decisões empresariais porque:
+    * **Define Limites:** Ajuda a diferenciar entre ações aceitáveis e inaceitáveis, mesmo que legais.
+    * **Constrói Confiança:** Decisões éticas fortalecem a confiança dos stakeholders (clientes, funcionários, investidores, comunidade).
+    * **Gerencia Riscos:** Evita escândalos, processos legais, danos à reputação e perdas financeiras associadas a condutas antiéticas.
+    * **Promove Sustentabilidade:** Empresas éticas tendem a ter melhor desempenho a longo prazo, atraindo talentos e clientes leais.
+    * **Impacta a Cultura:** Decisões éticas (ou a falta delas) moldam a cultura organizacional.
+    * **Reflete Valores:** As decisões demonstram os valores reais da empresa, para além do que está escrito.
+
+**2. Resumir Informações:**
+
+* Ética (princípios) e Moral (costumes) guiam o comportamento certo/errado.
+* No negócio, a ética fornece o framework; a moral individual influencia a prática.
+* Ética na decisão é vital para: confiança, gestão de risco, reputação, sustentabilidade e cultura organizacional.
+* Decisões antiéticas, mesmo que legais, podem destruir valor.
+
+**3. Oferecer Diferentes Perspectivas:**
+
+* **Tomada de Decisão Ética:** Modelos de tomada de decisão ética geralmente envolvem: identificar o dilema ético, coletar informações, avaliar opções com base em teorias éticas (utilitarismo, deontologia, virtude), considerar os stakeholders, tomar a decisão e refletir sobre ela.
+* **Pressões Contextuais:** Decisões éticas podem ser influenciadas por pressões de curto prazo (metas financeiras), cultura organizacional ("todos fazem"), ou falta de clareza sobre os padrões éticos.
+* **Intuição vs. Razão:** Algumas decisões morais são intuitivas, enquanto dilemas éticos complexos exigem análise racional e aplicação de princípios.
+
+**4. Sugerir Materiais Complementares:**
+
+* **Termos de Busca:** "modelos de tomada de decisão ética", "ética e desempenho financeiro", "dilemas éticos comuns em negócios", "ética vs legalidade exemplos".
+* **Fontes:** Artigos sobre vieses cognitivos na tomada de decisão ética, estudos de caso de grandes falhas éticas empresariais (Enron, Worldcom, Wells Fargo) e suas consequências. Livros sobre liderança ética.
+
+**5. Elaborar Perguntas para Estudo:**
+
+* Como um gestor pode garantir que a ética seja considerada em todas as decisões importantes da equipe?
+* Quais mecanismos uma empresa pode usar para ajudar funcionários a tomar decisões éticas sob pressão?
+* "Fazer o que é melhor para a empresa" sempre coincide com "fazer o que é eticamente correto"? Explique.
+* Como a falta de ética em decisões de baixo nível pode escalar e afetar toda a organização?
+
+**6. Discutir Exemplos e Casos:**
+
+* **Caso:** Uma empresa está perdendo mercado. O marketing sugere uma campanha agressiva que exagera os benefícios do produto, beirando a publicidade enganosa, mas provavelmente dentro dos limites legais. *Discussão:* Qual o dilema ético? Quais stakeholders são afetados? Que decisão seria ética (deontológica vs. utilitarista)? Quais os riscos de longo prazo?
+* **Tipo de Caso:** Decisões sobre demissões em massa: Como equilibrar a necessidade econômica da empresa com o tratamento ético e respeitoso dos funcionários dispensados?
+
+---
+
+## Tema 2: Código de Ética
+
+### Tópicos Combinados: Código de ética (missão, valores e visão); Análise do código de ética da empresa; Código de Ética nas organizações.
+
+**1. Explicar Conceitos:**
+
+* **Código de Ética:** É um documento formal que estabelece os princípios éticos e as normas de conduta que devem orientar as ações dos membros de uma organização (funcionários, gestores, diretores). Serve como um guia para o comportamento esperado e para a tomada de decisão em situações potencialmente ambíguas.
+* **Ligação com Missão, Visão e Valores (MVV):**
+    * **Missão:** A razão de ser da empresa. O código de ética deve refletir como a empresa pretende cumprir sua missão de forma ética.
+    * **Visão:** Onde a empresa quer chegar. O código ajuda a garantir que o caminho para alcançar a visão seja pavimentado com integridade.
+    * **Valores:** Crenças e princípios fundamentais que guiam a cultura e as ações da empresa. O código de ética operacionaliza esses valores, traduzindo-os em comportamentos esperados e proibidos. Um código desalinhado do MVV tende a ser ineficaz ("letra morta").
+* **Análise do Código de Ética:** Avaliar um código envolve verificar:
+    * **Clareza e Abrangência:** É fácil de entender? Cobre as áreas de risco ético relevantes para o negócio (conflito de interesses, confidencialidade, assédio, corrupção, etc.)?
+    * **Alinhamento com MVV e Cultura:** Reflete os valores declarados e a prática da empresa?
+    * **Implementação e Comunicação:** É divulgado? Há treinamento? Existem canais de denúncia? Há consequências para violações?
+    * **Atualização:** É revisado periodicamente?
+    * **Tom e Linguagem:** É inspirador e orientador ou apenas punitivo e legalista?
+
+**2. Resumir Informações:**
+
+* Código de Ética: Documento formal com princípios e normas de conduta.
+* Deve estar alinhado e operacionalizar a Missão, Visão e, principalmente, os Valores da empresa.
+* Análise do código avalia: clareza, abrangência, alinhamento, implementação e atualização.
+* Um bom código é vivo, comunicado e parte da cultura, não apenas um documento.
+
+**3. Oferecer Diferentes Perspectivas:**
+
+* **Perspectiva Legalista vs. Inspiradora:** Alguns códigos focam estritamente em proibições e cumprimento de leis. Outros buscam inspirar um comportamento ético mais amplo, baseado em valores. Idealmente, combinam ambos.
+* **Foco em Compliance vs. Foco em Integridade:** Um foco em *compliance* garante o cumprimento de regras. Um foco em *integridade* busca internalizar os valores éticos na cultura e no comportamento individual.
+* **Universalidade vs. Adaptação:** Empresas multinacionais debatem se devem ter um código único global ou adaptá-lo às diferentes culturas locais (respeitando limites éticos universais).
+
+**4. Sugerir Materiais Complementares:**
+
+* **Termos de Busca:** "como elaborar um código de ética eficaz", "exemplos de códigos de ética empresariais", "análise de conteúdo código de ética", "código de ética e cultura organizacional".
+* **Fontes:** Pesquisar códigos de ética de empresas reconhecidas por suas práticas (verificar se são públicos). Artigos sobre implementação de programas de ética e compliance. Guias de boas práticas de institutos como o IBGC (Instituto Brasileiro de Governança Corporativa) ou Ethisphere.
+
+**5. Elaborar Perguntas para Estudo:**
+
+* Por que um código de ética desalinhado dos valores praticados na empresa é ineficaz?
+* Quais são os elementos essenciais que um bom código de ética deve conter?
+* Como uma empresa pode garantir que seu código de ética seja mais do que um "documento de gaveta"?
+* Qual o papel da liderança na promoção e no cumprimento do código de ética?
+* Como analisar se um código de ética é adequado para os riscos específicos do setor de atuação da empresa?
+
+**6. Discutir Exemplos e Casos:**
+
+* **Exemplo:** Uma startup de tecnologia cria um código de ética focado em "inovação" e "agilidade", mas omite cláusulas claras sobre privacidade de dados do usuário. *Discussão:* Quais os riscos dessa omissão? Como o código falha em refletir um valor ético essencial para o negócio? Como ele poderia ser melhorado alinhando-o a um valor de "confiança" ou "respeito ao usuário"?
+* **Caso:** Analisar trechos de códigos de ética de diferentes empresas (se disponíveis publicamente) e comparar sua linguagem, abrangência e foco (compliance vs. integridade).
+
+---
+
+## Tema 3: Responsabilidade Social Empresarial (RSE) - Conceitos e Estratégia
+
+### Tópicos Combinados: Responsabilidade social (valores); A responsabilidade social empresarial; Estratégias da responsabilidade social nos negócios; Responsabilidade social nas organizações.
+
+**1. Explicar Conceitos:**
+
+* **Responsabilidade Social Empresarial (RSE):** Refere-se ao compromisso contínuo e ético de uma empresa de contribuir para o desenvolvimento econômico, social e ambiental, melhorando a qualidade de vida de seus funcionários, suas famílias, da comunidade local e da sociedade em geral. Vai além das obrigações legais, incorporando preocupações sociais e ambientais nas operações do negócio e nas interações com os stakeholders.
+* **Ligação com Valores:** A RSE genuína está enraizada nos valores fundamentais da organização. Empresas que valorizam a sustentabilidade, a equidade, o bem-estar comunitário e a ética tendem a integrar a RSE de forma mais autêntica em sua estratégia e cultura.
+* **RSE como Estratégia:** Deixou de ser vista apenas como filantropia ou custo, para ser considerada uma estratégia de negócio. A integração da RSE pode:
+    * Melhorar a reputação e a imagem da marca.
+    * Atrair e reter talentos.
+    * Aumentar a lealdade do cliente.
+    * Inovar em produtos e processos mais sustentáveis.
+    * Melhorar o relacionamento com a comunidade e reguladores.
+    * Gerenciar riscos socioambientais.
+    * Criar valor compartilhado (benefícios para a empresa e a sociedade simultaneamente).
+* **RSE nas Organizações:** Significa incorporar práticas responsáveis em todas as áreas: governança corporativa, direitos humanos, práticas trabalhistas, meio ambiente, práticas leais de operação, questões do consumidor e envolvimento comunitário.
+
+**2. Resumir Informações:**
+
+* RSE: Compromisso ético e voluntário da empresa com o desenvolvimento socioambiental e econômico.
+* Vai além do lucro e da lei, integrando preocupações dos stakeholders.
+* Deve ser baseada nos valores organizacionais.
+* Estratégia de Negócio: Gera valor para a empresa (reputação, talentos, inovação, risco) e para a sociedade.
+* Implementação: Requer integração nas operações e na cultura organizacional.
+
+**3. Oferecer Diferentes Perspectivas:**
+
+* **Visão Clássica (Friedman):** A única responsabilidade social da empresa é gerar lucro para os acionistas, dentro das regras legais e éticas básicas.
+* **Visão Socioeconômica (Stakeholder Theory):** A empresa tem responsabilidade para com todos os seus stakeholders (grupos afetados por suas atividades), não apenas acionistas. A RSE é parte dessa responsabilidade ampliada.
+* **Visão da Criação de Valor Compartilhado (Porter & Kramer):** A RSE deve ser integrada ao core business, buscando soluções para problemas sociais que também gerem valor econômico para a empresa.
+* **Greenwashing vs. RSE Autêntica:** Crítica a empresas que usam a RSE apenas como marketing, sem mudanças reais em suas práticas (greenwashing).
+
+**4. Sugerir Materiais Complementares:**
+
+* **Termos de Busca:** "definição responsabilidade social empresarial", "teoria dos stakeholders", "criação de valor compartilhado", "ISO 26000 diretrizes RSE", "benefícios da RSE para empresas", "críticas à RSE greenwashing".
+* **Fontes:** Relatórios de sustentabilidade de empresas (padrão GRI), publicações de organizações como Instituto Ethos, Pacto Global da ONU. Artigos acadêmicos sobre a relação entre RSE e desempenho financeiro. Livros de autores como Archie Carroll (Pirâmide da RSE), Edward Freeman (Stakeholder Theory), Michael Porter (Valor Compartilhado).
+
+**5. Elaborar Perguntas para Estudo:**
+
+* Qual a diferença entre filantropia e Responsabilidade Social Empresarial estratégica?
+* Como uma empresa pode identificar seus principais stakeholders e suas expectativas em relação à RSE?
+* De que forma a RSE pode contribuir para a inovação dentro de uma empresa? Dê exemplos.
+* Quais são os riscos para uma empresa que não leva a sério suas responsabilidades sociais e ambientais?
+* Como os valores de uma empresa influenciam a forma como ela pratica a RSE?
+
+**6. Discutir Exemplos e Casos:**
+
+* **Exemplo:** Uma rede de supermercados decide reduzir o desperdício de alimentos (doando o que está perto de vencer, otimizando logística) e eliminar sacolas plásticas. *Discussão:* Isso é RSE? Como se conecta aos valores (sustentabilidade, comunidade)? Quais os benefícios para a empresa (custos, imagem) e para a sociedade (menos lixo, alimento para quem precisa)? É estratégico?
+* **Caso:** Empresas como Natura ou Patagonia, que construíram suas marcas fortemente atreladas a valores socioambientais. Analisar como a RSE está integrada em seus produtos, operações e comunicação. Comparar com casos de greenwashing.
+
+---
+
+## Tema 4: Gestão da RSE
+
+### Tópicos Combinados: Sistemas de gestão; Indicadores, avaliação e instrumentos de responsabilidade social; Sistemas de gestão de responsabilidade social.
+
+**1. Explicar Conceitos:**
+
+* **Sistemas de Gestão de RSE:** São estruturas e processos organizacionais implementados para gerenciar e melhorar continuamente o desempenho social e ambiental da empresa, integrando a RSE às operações diárias e à estratégia. Não se trata de ações isoladas, mas de um ciclo contínuo (planejar, fazer, checar, agir - PDCA).
+* **Instrumentos e Normas:** Existem diversas ferramentas e normas (algumas certificáveis, outras de diretrizes) que auxiliam na implementação de sistemas de gestão de RSE:
+    * **ISO 26000:** Norma de diretrizes (não certificável) sobre responsabilidade social, cobrindo 7 temas centrais (governança, direitos humanos, práticas trabalhistas, meio ambiente, práticas leais de operação, consumidor, envolvimento comunitário).
+    * **SA 8000:** Norma certificável focada em condições de trabalho dignas (trabalho infantil, forçado, saúde e segurança, discriminação, etc.).
+    * **Normas ISO 14001 (Ambiental) e ISO 45001 (Saúde e Segurança):** Sistemas de gestão focados em áreas específicas da RSE, podem ser integrados.
+    * **Pacto Global da ONU:** Iniciativa com 10 princípios nas áreas de direitos humanos, trabalho, meio ambiente e anticorrupção, aos quais as empresas aderem voluntariamente.
+    * **GRI (Global Reporting Initiative):** Padrão internacional mais utilizado para elaboração de relatórios de sustentabilidade, com indicadores específicos.
+    * **Indicadores Ethos:** Ferramenta de diagnóstico da gestão de RSE voltada à realidade brasileira.
+    * **Sistema B (B Corp):** Certificação para empresas que buscam equilibrar lucro e propósito, atendendo a altos padrões de desempenho social e ambiental, transparência e responsabilidade.
+* **Indicadores e Avaliação:** São métricas usadas para medir o desempenho da empresa em relação aos seus objetivos de RSE. Permitem monitorar o progresso, identificar áreas de melhoria e comunicar os resultados aos stakeholders (via relatórios de sustentabilidade, por exemplo). Indicadores podem ser quantitativos (ex: % de energia renovável consumida, nº de horas de treinamento por funcionário) ou qualitativos (ex: descrição de políticas de diversidade). A avaliação compara o desempenho com metas, benchmarks ou normas.
+
+**2. Resumir Informações:**
+
+* Sistemas de Gestão de RSE: Estruturas formais para gerenciar e melhorar o desempenho socioambiental.
+* Instrumentos: Normas (ISO 26000, SA 8000), iniciativas (Pacto Global), certificações (Sistema B), frameworks de relato (GRI) apoiam a gestão.
+* Indicadores: Métricas quantitativas e qualitativas para medir o desempenho em RSE.
+* Avaliação: Monitora progresso, compara com metas e informa stakeholders (relatórios).
+* Ciclo PDCA é fundamental para a melhoria contínua.
+
+**3. Oferecer Diferentes Perspectivas:**
+
+* **Foco na Certificação vs. Foco na Melhoria Contínua:** Algumas empresas buscam selos e certificados apenas pela imagem, outras usam as normas como ferramentas para melhorar genuinamente seus processos e impactos.
+* **Complexidade vs. Simplicidade:** Implementar um sistema de gestão robusto pode ser complexo e custoso, especialmente para PMEs. É preciso adaptar a abordagem à realidade da empresa.
+* **Mensuração de Impacto:** O desafio de ir além de medir *atividades* (ex: nº de árvores plantadas) para medir o *impacto* real dessas ações (ex: sequestro de carbono, melhoria da biodiversidade).
+* **Integração vs. Silos:** Sistemas de gestão são mais eficazes quando integrados à gestão geral do negócio, não como um departamento isolado de RSE.
+
+**4. Sugerir Materiais Complementares:**
+
+* **Termos de Busca:** "ISO 26000 resumo", "SA 8000 requisitos", "como fazer um relatório de sustentabilidade GRI", "indicadores de RSE exemplos", "Sistema B certificação", "Instituto Ethos indicadores".
+* **Fontes:** Sites oficiais da ISO, SAAS (Social Accountability Accreditation Services), Global Reporting Initiative (GRI), Pacto Global da ONU, Sistema B. Relatórios de sustentabilidade de empresas que utilizam esses padrões. Guias e publicações do Instituto Ethos.
+
+**5. Elaborar Perguntas para Estudo:**
+
+* Por que é importante para uma empresa ter um sistema de gestão para sua RSE, em vez de apenas realizar ações pontuais?
+* Qual a diferença entre uma norma de diretrizes (como a ISO 26000) e uma norma certificável (como a SA 8000)? Quais as vantagens de cada uma?
+* Como a escolha de indicadores de RSE pode influenciar as prioridades e ações da empresa?
+* Qual o papel dos relatórios de sustentabilidade na gestão da RSE e na comunicação com stakeholders?
+* Como uma pequena empresa pode começar a implementar práticas de gestão de RSE sem grandes investimentos?
+
+**6. Discutir Exemplos e Casos:**
+
+* **Exemplo:** Uma indústria têxtil decide buscar a certificação SA 8000 para sua fábrica. *Discussão:* Que tipos de processos e indicadores ela precisará implementar e monitorar (ex: registros de jornada, auditorias de segurança, canais de reclamação de funcionários)? Quais os benefícios esperados (melhora nas condições de trabalho, reputação com clientes B2B, redução de riscos trabalhistas)?
+* **Caso:** Analisar um relatório de sustentabilidade (padrão GRI) de uma grande empresa. Identificar os temas materiais, os indicadores utilizados e como a empresa reporta seu desempenho (metas, progresso, desafios).
+
+---
+
+## Tema 5: Papel da Liderança
+
+### Tópicos Combinados: O papel do gestor na relação entre ética e responsabilidade; Gestão, ética e responsabilidade social.
+
+**1. Explicar Conceitos:**
+
+* **Papel do Gestor/Líder:** A liderança (em todos os níveis, mas especialmente a alta administração) tem um papel fundamental e insubstituível na promoção de uma cultura ética e na implementação da responsabilidade social na organização. Suas ações e decisões têm um peso enorme.
+* **Principais Responsabilidades:**
+    * **Definir o "Tom no Topo" (Tone at the Top):** Demonstrar compromisso pessoal e organizacional com a ética e a RSE através de palavras e, principalmente, ações. Ser o exemplo.
+    * **Incorporar Ética e RSE na Estratégia:** Garantir que considerações éticas e socioambientais sejam integradas ao planejamento estratégico e aos objetivos de negócio.
+    * **Desenvolver e Comunicar Valores e Códigos:** Liderar a criação (ou revisão) e a comunicação eficaz do código de ética e dos valores da empresa.
+    * **Criar uma Cultura Ética:** Fomentar um ambiente onde os funcionários se sintam seguros para levantar preocupações éticas (speak-up culture), onde a ética seja discutida abertamente e onde o comportamento ético seja reconhecido e recompensado.
+    * **Alocar Recursos:** Destinar recursos (tempo, dinheiro, pessoal) adequados para programas de ética, compliance e RSE.
+    * **Tomar Decisões Éticas Difíceis:** Assumir a responsabilidade por decisões complexas que envolvam trade-offs entre lucro e princípios éticos/sociais.
+    * **Monitorar e Cobrar Responsabilidade:** Estabelecer mecanismos de controle, monitorar o desempenho ético e de RSE, e garantir que haja consequências para violações.
+    * **Engajar Stakeholders:** Liderar o diálogo e o relacionamento com stakeholders sobre questões éticas e de RSE.
+* **Gestão, Ética e RSE:** Esses três elementos estão intrinsecamente ligados. Uma gestão eficaz no século XXI exige a integração da ética e da RSE. Ignorar esses aspectos não é apenas um risco moral ou reputacional, mas também um risco estratégico e financeiro. Líderes que compreendem essa interconexão estão mais bem preparados para construir organizações resilientes e sustentáveis.
+
+**2. Resumir Informações:**
+
+* Liderança é crucial para a ética e RSE na empresa.
+* Responsabilidades: Dar o exemplo ("tone at the top"), integrar à estratégia, comunicar valores, fomentar cultura ética, alocar recursos, tomar decisões difíceis, monitorar e engajar stakeholders.
+* Gestão moderna eficaz = Gestão + Ética + RSE.
+* A omissão da liderança nessas áreas compromete a organização.
+
+**3. Oferecer Diferentes Perspectivas:**
+
+* **Liderança Ética vs. Liderança Tóxica:** O impacto diametralmente oposto que diferentes estilos de liderança têm sobre a cultura ética da organização.
+* **Liderança Servidora:** Foco no bem-estar dos liderados e da comunidade, alinhado com princípios éticos e de RSE.
+* **Dilema do Agente (Principal-Agent Problem):** Gestores (agentes) podem ter interesses que conflitam com os dos proprietários (principal) ou de outros stakeholders, levando a decisões antiéticas se não houver boa governança e liderança ética.
+* **Pressão por Resultados:** Como a pressão excessiva por metas de curto prazo, vinda da liderança, pode incentivar comportamentos antiéticos na equipe.
+
+**4. Sugerir Materiais Complementares:**
+
+* **Termos de Busca:** "liderança ética características", "tone at the top importância", "como criar uma cultura ética organizacional", "papel do CEO na responsabilidade social", "speak-up culture".
+* **Fontes:** Artigos da Harvard Business Review, MIT Sloan Management Review sobre liderança e ética. Livros sobre Liderança Ética (autores como Linda Trevino, Michael Brown). Estudos de caso sobre como líderes específicos moldaram (ou destruíram) a cultura ética de suas empresas. Biografias de líderes considerados éticos.
+
+**5. Elaborar Perguntas para Estudo:**
+
+* Por que o exemplo pessoal do líder ("walk the talk") é tão importante para a ética empresarial?
+* Como um gestor de nível médio pode promover a ética em sua equipe, mesmo que o "tom no topo" não seja ideal?
+* Quais são os maiores desafios que um líder enfrenta ao tentar implementar uma agenda de RSE ambiciosa?
+* De que forma a estrutura de remuneração e bônus da diretoria pode incentivar ou desincentivar comportamentos éticos e foco em RSE?
+* Como a liderança pode equilibrar as demandas de diferentes stakeholders (ex: acionistas querendo lucro vs. comunidade querendo investimentos sociais)?
+
+**6. Discutir Exemplos e Casos:**
+
+* **Exemplo:** Um CEO decide cortar investimentos em segurança do trabalho para atingir metas de lucro trimestrais, apesar dos riscos. *Discussão:* Qual o impacto dessa decisão na cultura ética? Que mensagem isso envia para a organização? Quais as potenciais consequências a longo prazo? Como um líder ético agiria diferente?
+* **Caso:** Howard Schultz (Starbucks) e seu foco em benefícios para funcionários (partners) como parte da estratégia e valores da empresa. Analisar como a visão do líder moldou as práticas de RSE e a cultura. Comparar com líderes de empresas envolvidas em grandes escândalos éticos (ex: Travis Kalanick no Uber inicial).
